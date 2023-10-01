@@ -15,6 +15,6 @@ My name is David dos Santos Alcântara and I'm a 21 years old web full-stack dev
 
 ## 📈📊 Summary
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=David220820&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David220820&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=David-Santoss&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Santoss&layout=compact&theme=tokyonight" />
 </div>
